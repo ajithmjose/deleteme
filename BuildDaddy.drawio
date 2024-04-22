@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T10:35:25.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="meqWLIiWZ_6F9tgYYHiP" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T11:09:34.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_Ti5mjwk6AdjQRwM4nJO" version="24.2.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2068" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="1355" value="Consultants" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="1309" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1356" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1356" value="Quote" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1357" value="Plans" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -170,10 +170,10 @@
           <mxGeometry x="963.5" y="141.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1392" value="Mantis" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1033.5" y="81.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1118.5" y="11.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1394" value="Butterfly" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1163.5" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1395" value="Flea" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1283.5" y="201.5" width="120" height="40" as="geometry" />
@@ -259,22 +259,22 @@
         <mxCell id="1412" value="Pigeon" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1946" y="401.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1413" value="Hawk" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1413" value="Land" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1491" y="436.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1414" value="Falcon" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1414" value="Bank" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1521" y="371.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1415" value="Sparrow" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1415" value="Plan" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1541" y="291.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1416" value="Stork" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1416" value="Architect" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1631" y="221.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1417" value="Flamingo" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1417" value="Contract" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1766" y="166.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1418" value="Penguin" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1418" value="Invoices" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1861" y="251.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1419" value="Owl" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -889,16 +889,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="izflL1ex-arLtoel_Zpr-1558" value="Selections" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1093.5" y="-180" width="120" height="120" as="geometry" />
+          <mxGeometry x="703.5" y="-220" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="izflL1ex-arLtoel_Zpr-1559" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1351" target="izflL1ex-arLtoel_Zpr-1558">
+        <mxCell id="izflL1ex-arLtoel_Zpr-1559" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1351" target="izflL1ex-arLtoel_Zpr-1558">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1214" y="267" as="sourcePoint" />
             <mxPoint x="1490" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izflL1ex-arLtoel_Zpr-1560" value="Building Approval" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1373.5" y="-290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="izflL1ex-arLtoel_Zpr-1561" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="izflL1ex-arLtoel_Zpr-1560" source="izflL1ex-arLtoel_Zpr-1556">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
@@ -906,22 +906,265 @@
             <mxPoint x="113.5" y="31.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="izflL1ex-arLtoel_Zpr-1562" value="EER" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="-330" width="120" height="40" as="geometry" />
+        <mxCell id="izflL1ex-arLtoel_Zpr-1562" value="EER certificate" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="-300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="izflL1ex-arLtoel_Zpr-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=0.378;exitY=0.003;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1562">
+        <mxCell id="izflL1ex-arLtoel_Zpr-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=0.667;exitY=0.083;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1562">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1488" y="-122" as="sourcePoint" />
             <mxPoint x="1397" y="-230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izflL1ex-arLtoel_Zpr-1564" value="Utilities Approval" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1591" y="-330" width="120" height="40" as="geometry" />
+          <mxGeometry x="1646" y="-230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="izflL1ex-arLtoel_Zpr-1565" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1564">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1515" y="-140" as="sourcePoint" />
             <mxPoint x="1520" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1566" value="Appointment of builder" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1570" value="Appointment of certifier" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1228.5" y="-130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1571" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.056;entryY=0.681;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1570" target="izflL1ex-arLtoel_Zpr-1556">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1403.5" y="-110" as="sourcePoint" />
+            <mxPoint x="1529.5" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1575" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;insurance certificate&lt;/div&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1576" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1570" target="izflL1ex-arLtoel_Zpr-1570">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1579" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1566" target="izflL1ex-arLtoel_Zpr-1556">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1359" y="-100" as="sourcePoint" />
+            <mxPoint x="1477" y="-58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1580" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1575">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1330" y="-160" as="sourcePoint" />
+            <mxPoint x="1474" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1581" value="Land developer signoff" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1711" y="-150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1582" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1581">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1572" y="-122" as="sourcePoint" />
+            <mxPoint x="1716" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1583" value="Form N1&amp;nbsp;&lt;div&gt;stamped plan&lt;/div&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1701" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1584" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="izflL1ex-arLtoel_Zpr-1583">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1570" y="-70" as="sourcePoint" />
+            <mxPoint x="1721" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1586" value="Site classification&amp;nbsp;&lt;div&gt;reportt&lt;/div&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1701" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1587" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1586">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1580" y="-60" as="sourcePoint" />
+            <mxPoint x="1711" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1589" value="EER stamped plan" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1671" y="41.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1590" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="izflL1ex-arLtoel_Zpr-1589">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1550" y="-50" as="sourcePoint" />
+            <mxPoint x="1630" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1591" value="Storm water easement&lt;div&gt;approval&lt;/div&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="51.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1593" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1556" target="izflL1ex-arLtoel_Zpr-1591">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1560" y="-40" as="sourcePoint" />
+            <mxPoint x="1741" y="52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1595" value="Roof color &amp;amp; Profile" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="913.5" y="-270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1596" value="Claddings" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="-220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1597" value="Facebrick" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="-160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1598" value="Floor material" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1599" value="Floor color" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="578.5" y="-330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1600" value="Paint color" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1601" value="Wet area tiles&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Paint%20color%22%20style%3D%22rounded%3D1%3BfillColor%3D%23f5af58%3BstrokeColor%3Dnone%3BstrokeWidth%3D3%3Bshadow%3D0%3Bhtml%3D1%3BfontColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22510%22%20y%3D%22-280%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1602" value="Joinery color" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="-180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1603" value="Appliances" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1604" value="Doors" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="-60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1605" value="Door handles / lock" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="578.5" y="1.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1606" value="Bath fittings" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1607" value="Stairs" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="748.5" y="-20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1608" value="Balustrade" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1609" value="Shower screen" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="778.5" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1610" value="Garage door" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="913.5" y="-340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1612" value="Bench top" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="-140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1613" value="Rain water tank" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1614" value="Rain water tank" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="-50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1615" value="Invoices" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="728.5" y="1685" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1616" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="793.5" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1617" value="Dahlia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="658.5" y="1525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1618" value="Petunia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1619" value="Cactus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1620" value="Tulip" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="1695" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1621" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1622" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="1822.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1623" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="1872.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1624" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="748.5" y="1927.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1625" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="873.5" y="1862.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1626" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="933.5" y="1795" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1627" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="953.5" y="1699.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1628" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1627">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1629" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1616">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1630" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1617">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1631" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1618">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1632" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1619">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1633" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1620">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1634" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1621">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1635" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1622">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1636" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1623">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1637" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1624">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1638" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1625">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1639" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1615" target="izflL1ex-arLtoel_Zpr-1626">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="358.5" y="665" as="sourcePoint" />
+            <mxPoint x="458.5" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
