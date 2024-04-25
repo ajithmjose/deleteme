@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T11:23:40.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nnwXwKh71HpxmZfOx7GB" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T02:10:51.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mOcJP4fvKLHe3lPWANgZ" version="24.2.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2068" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1366,6 +1366,99 @@
           <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
             <mxPoint x="-66" y="1011.5" as="sourcePoint" />
             <mxPoint x="34" y="911.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1694" value="Lead" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#D3729C;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="890.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1695" value="Comments" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3125" y="850.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1696" value="Contact Details" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3155" y="780.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1697" value="Lead source" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="761.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1701" value="Email Welcome letter" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="976.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1702" value="SMS Welcome letter" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="918" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1703" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1695">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1320" y="380.5" as="sourcePoint" />
+            <mxPoint x="1420" y="280.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1704" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1696">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1320" y="380.5" as="sourcePoint" />
+            <mxPoint x="1420" y="280.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1705" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1697">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1320" y="380.5" as="sourcePoint" />
+            <mxPoint x="1420" y="280.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1709" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1701">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1320" y="380.5" as="sourcePoint" />
+            <mxPoint x="1420" y="280.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1710" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1702">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1320" y="380.5" as="sourcePoint" />
+            <mxPoint x="1420" y="280.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1712" value="Quote" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#D3729C;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="823" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1713" value="Add Contact" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3830" y="736.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1714" value="Add Property Details" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="817.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1715" value="Email Welcome letter" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="939" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1716" value="SMS Welcome letter" style="rounded=1;fillColor=#D3729C;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="876" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1717" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1712" target="izflL1ex-arLtoel_Zpr-1713">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1700" y="313" as="sourcePoint" />
+            <mxPoint x="1800" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1718" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1712" target="izflL1ex-arLtoel_Zpr-1714">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1700" y="313" as="sourcePoint" />
+            <mxPoint x="1800" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1720" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1712" target="izflL1ex-arLtoel_Zpr-1715">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1700" y="313" as="sourcePoint" />
+            <mxPoint x="1800" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1721" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fillColor=#D3729C;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1712" target="izflL1ex-arLtoel_Zpr-1716">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1700" y="313" as="sourcePoint" />
+            <mxPoint x="1800" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izflL1ex-arLtoel_Zpr-1722" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.989;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="izflL1ex-arLtoel_Zpr-1694" target="izflL1ex-arLtoel_Zpr-1712">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3400" y="956.5" as="sourcePoint" />
+            <mxPoint x="4060" y="957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
