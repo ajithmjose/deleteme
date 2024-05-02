@@ -1,9 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T01:17:06.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.3.1" etag="y7ruvOgKZa7PZzZF6kDL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T05:18:16.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8do3OiFJdaRB-5phU9WQ" version="24.3.1" type="github">
   <diagram name="Page-1" id="tAE13xJQHYmbh2jkPlch">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KnFF-iaLMFNklL659Gk--1" value="Auth App" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--36" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KnFF-iaLMFNklL659Gk--1" source="KnFF-iaLMFNklL659Gk--35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--1" source="KnFF-iaLMFNklL659Gk--35" target="KnFF-iaLMFNklL659Gk--54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="475" />
+              <mxPoint x="20" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--53" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KnFF-iaLMFNklL659Gk--52">
+          <mxGeometry x="0.0098" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--35" value="Account linked already?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--1">
+          <mxGeometry x="60" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--1" source="KnFF-iaLMFNklL659Gk--50" target="KnFF-iaLMFNklL659Gk--54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--50" value="Setup Party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--1">
+          <mxGeometry x="70" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--54" value="Go to&amp;nbsp;&lt;div&gt;Online Services&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--1">
+          <mxGeometry x="60" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--3" value="MyGov" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KnFF-iaLMFNklL659Gk--3" source="KnFF-iaLMFNklL659Gk--7" target="KnFF-iaLMFNklL659Gk--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--7" value="Login with MyGov" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--3">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--10" value="Generates the SAML assertions" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--3">
+          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--4" value="OAM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="210" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--4" source="KnFF-iaLMFNklL659Gk--12" target="KnFF-iaLMFNklL659Gk--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--12" value="Extracts the ABRP value from SAML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--4">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--4" source="KnFF-iaLMFNklL659Gk--15" target="KnFF-iaLMFNklL659Gk--61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--31" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KnFF-iaLMFNklL659Gk--30">
+          <mxGeometry x="0.3297" y="-3" relative="1" as="geometry">
+            <mxPoint x="8" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--15" value="if existing&amp;nbsp;&lt;div&gt;user&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--4">
+          <mxGeometry x="50" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KnFF-iaLMFNklL659Gk--4" source="KnFF-iaLMFNklL659Gk--16" target="KnFF-iaLMFNklL659Gk--61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--16" value="Generate new AGXXXX number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--4">
+          <mxGeometry x="100" y="345" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--4" source="KnFF-iaLMFNklL659Gk--15" target="KnFF-iaLMFNklL659Gk--16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KnFF-iaLMFNklL659Gk--19">
+          <mxGeometry x="-0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint x="16" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--29" value="Callback to AuthApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--4">
+          <mxGeometry x="30" y="495" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KnFF-iaLMFNklL659Gk--4" source="KnFF-iaLMFNklL659Gk--61" target="KnFF-iaLMFNklL659Gk--29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--61" value="Inject header values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--4">
+          <mxGeometry x="30" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--5" value="LDAP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="40" width="200" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--14" value="Puts&amp;nbsp; the ABRP value against the LDAP attribute &quot;employeeNumber&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--5">
+          <mxGeometry x="50" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KnFF-iaLMFNklL659Gk--5" source="KnFF-iaLMFNklL659Gk--18" target="KnFF-iaLMFNklL659Gk--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--18" value="Create User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--5">
+          <mxGeometry x="50" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--6" target="KnFF-iaLMFNklL659Gk--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--9" value="Login with digital identity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KnFF-iaLMFNklL659Gk--8">
+          <mxGeometry x="-0.1494" relative="1" as="geometry">
+            <mxPoint x="-61" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--10" target="KnFF-iaLMFNklL659Gk--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--16" target="KnFF-iaLMFNklL659Gk--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--29" target="KnFF-iaLMFNklL659Gk--35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--37" value="PartyDS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--49" value="Create Organisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--37">
+          <mxGeometry x="55" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--47" value="Create Party records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KnFF-iaLMFNklL659Gk--37">
+          <mxGeometry x="55" y="125" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KnFF-iaLMFNklL659Gk--37" source="KnFF-iaLMFNklL659Gk--49" target="KnFF-iaLMFNklL659Gk--47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--50" target="KnFF-iaLMFNklL659Gk--49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="642.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--56" value="Online Services" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KnFF-iaLMFNklL659Gk--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KnFF-iaLMFNklL659Gk--54" target="KnFF-iaLMFNklL659Gk--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
